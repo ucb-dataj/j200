@@ -9,6 +9,9 @@ And replies to a call for "entry level" data stories:
 ## Payday Lending
 Find some data. 
 
+## Civil Forfeiture
+https://boingboing.net/2018/06/01/i-am-the-law-2.html
+
 ## Nuisance abatement
 
 Sarah Ryeley: My series on nuisance abatement that won a Pulitzer didn't really go much those tools. I did some of the analysis in Tableau, but you could probably do the same with pivot tables. It was probably the simplest data story I've ever done, in terms of the tools needed for the actual analysis. The harder part was the process behind the data collection, and then of course the rest of the reporting. I have a more detailed blow-by-blow of the process in my IRE entry, which is in the IRE library. But I use this series as an example at the end of my beginners data bootcamp and my "Intro to Data Tools" presentation to show that you can still get big impact by incorporating even basic data skills into your investigations :)
