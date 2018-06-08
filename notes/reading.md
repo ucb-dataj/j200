@@ -4,6 +4,11 @@ Very rough notes for Amanda on reading, story starting points, etc.
 
 * where does 
 
+Good local data story: 
+https://www.nytimes.com/2018/05/12/upshot/these-95-apartments-promised-affordable-rent-in-san-francisco-then-6580-people-applied.html
+
+
+
 And replies to a call for "entry level" data stories: 
 --------
 ## Payday Lending
