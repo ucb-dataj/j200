@@ -11,7 +11,17 @@ This was an interesting [quick hit on the rise of suicide](https://www.buzzfeed.
 
 **Caption:** Tell me more about what I'm looking at. "A recent CDC report found that there is just one state in the union -- Nevada -- where suicides did not rise between 1999 and 2016." 
 
-**Map:** What are those buckets? If you look at this map where would you say the problem is most dramatic? This is a quantile map: they chose the buckets so that there are roughly the same number of states in each bucket. But one of these ranges is not like the others: 38-58% is a far bigger range. If we use "equal intervals," we wind up with very different buckets: 
+**Map:** What are those buckets? If you look at this map where would you say the problem is most dramatic? This is a quantile map: they chose the buckets so that there are roughly the same number of states in each bucket. But one of these ranges is not like the others: 38-58% is a far bigger range. If we use "equal intervals," we wind up with very different buckets:
+
+-1- 10.72
+10.72 - 22.44
+22.44 - 34.16
+34.16 - 45.88
+45.88 - 57.60
+
+I think it makes some kind of sense to break it at zero, and at the national average (25.4)
+
+
 
 
 More thoughts: how many of you did not recognize this as a map of the United States? Some things we can leave off. "This map shows"
