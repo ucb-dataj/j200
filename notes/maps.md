@@ -22,6 +22,8 @@ This was an interesting [quick hit on the rise of suicide](https://www.buzzfeed.
 I think it makes some kind of sense to break it at zero, and at the national average (25.4)
 
 
+The CDC report is based on raw data available in the CDC's [Morbidity and Mortality Weekly Report](https://www.cdc.gov/mmwr/index.html)
+
 
 
 More thoughts: how many of you did not recognize this as a map of the United States? Some things we can leave off. "This map shows"
