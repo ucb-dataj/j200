@@ -35,3 +35,14 @@ https://www.washingtonpost.com/graphics/2018/investigations/unsolved-homicide-da
 So let's filter out the data that we don't need and zoom in on our region. 
 
 https://github.com/washingtonpost/data-homicides 
+
+More sources for data on this: http://www.murderdata.org/p/blog-page.html
+
+https://crime-data-explorer-master.fr.cloud.gov/
+
+https://openjustice.doj.ca.gov/
+https://ucr.fbi.gov/crime-in-the-u.s/2010/crime-in-the-u.s.-2010/clearances
+KQED did a great job on this in 2012:
+https://fusiontables.google.com/DataSource?docid=1xzpD8TzW5dnNQr-Lp_KZdAWHnB8Dh2Ms4eZlXgU#rows:id=1
+story in 2013
+https://ww2.kqed.org/news/2013/02/12/oaklands-other-homicide-crisis-unsolved-cases/
