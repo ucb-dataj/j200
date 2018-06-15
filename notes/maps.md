@@ -56,4 +56,8 @@ https://www.usgs.gov/news/usgs-rolls-out-groundbreaking-earthquake-study-haywire
 
 https://pubs.usgs.gov/fs/2018/3016/fs20183016.pdf
 
-Table 37 on page 360 of https://pubs.usgs.gov/sir/2017/5013/sir20175013iq.pdf
+Table 37 on page 360 of https://pubs.usgs.gov/sir/2017/5013/sir20175013iq.pdf (page 380 has some great bad charts)
+
+Structural Engineers Association of Northern California (SEAONC) compiled the list
+
+
