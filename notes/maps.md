@@ -30,6 +30,8 @@ More thoughts: how many of you did not recognize this as a map of the United Sta
 
 ## A Map to Make
 
+### Unsolved Homicides
+
 https://www.washingtonpost.com/graphics/2018/investigations/unsolved-homicide-database/?utm_term=.a91216e2d03a
 
 So let's filter out the data that we don't need and zoom in on our region. 
@@ -46,3 +48,12 @@ KQED did a great job on this in 2012:
 https://fusiontables.google.com/DataSource?docid=1xzpD8TzW5dnNQr-Lp_KZdAWHnB8Dh2Ms4eZlXgU#rows:id=1
 story in 2013
 https://ww2.kqed.org/news/2013/02/12/oaklands-other-homicide-crisis-unsolved-cases/
+
+### Vulnerable Buildings 
+https://www.nytimes.com/2018/06/14/us/california-earthquakes-high-rises.html
+
+https://www.usgs.gov/news/usgs-rolls-out-groundbreaking-earthquake-study-haywired-earthquake-scenario
+
+https://pubs.usgs.gov/fs/2018/3016/fs20183016.pdf
+
+Table 37 on page 360 of https://pubs.usgs.gov/sir/2017/5013/sir20175013iq.pdf
