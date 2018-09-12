@@ -53,6 +53,8 @@ https://fusiontables.google.com/DataSource?docid=1xzpD8TzW5dnNQr-Lp_KZdAWHnB8Dh2
 story in 2013
 https://ww2.kqed.org/news/2013/02/12/oaklands-other-homicide-crisis-unsolved-cases/
 
+
+
 ### Vulnerable Buildings
 https://www.nytimes.com/2018/06/14/us/california-earthquakes-high-rises.html
 
