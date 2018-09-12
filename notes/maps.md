@@ -63,3 +63,11 @@ https://pubs.usgs.gov/fs/2018/3016/fs20183016.pdf
 Table 37 on page 360 of https://pubs.usgs.gov/sir/2017/5013/sir20175013iq.pdf (page 380 has some great bad charts)
 
 Structural Engineers Association of Northern California (SEAONC) compiled the list
+
+## Map Driven Stories that Are great
+This piece on water contamination in Nova Scotia came out of a spatial join of well locations with areas with higher potential for arsenic contamination. It was a simple analysis that led to a compelling story.
+
+https://signalhfx.ca/deadly-water/
+
+## Tutorials for Further Research
+http://akanik.github.io/mapping-2017/
