@@ -73,3 +73,14 @@ https://signalhfx.ca/deadly-water/
 
 ## Tutorials for Further Research
 http://akanik.github.io/mapping-2017/
+
+### Other Tools
+* Tableau (Peter Aldhous has a good [intro walk through](http://paldhous.github.io/ucb/2016/intro-data/week4.html) in his course notes.)
+
+http://www.padjo.org/tutorials/#mapping
+
+
+
+    https://github.com/amandabee/CUNY-SOJ-data-storytelling/wiki/Tip-Sheet:-Geocoding
+    https://github.com/amandabee/CUNY-SOJ-data-storytelling/wiki/Where-to-Find-Shapefiles
+    http://amandabee.github.io/CUNY-data-skills/hands-on/mapping.html
