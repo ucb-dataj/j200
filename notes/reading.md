@@ -2,17 +2,17 @@ Very rough notes for Amanda on reading, story starting points, etc.
 
 * https://mjwebster.github.io/DataJ/Other/WrestlingWithData.pdf
 
-* where does 
+* where does
 
-Good local data story: 
+Good local data story:
 https://www.nytimes.com/2018/05/12/upshot/these-95-apartments-promised-affordable-rent-in-san-francisco-then-6580-people-applied.html
 
+https://github.com/Quartz/bad-data-guide
 
-
-And replies to a call for "entry level" data stories: 
+Replies to a call for "entry level" data stories:
 --------
 ## Payday Lending
-Find some data. 
+Find some data?
 
 ## Civil Forfeiture
 https://boingboing.net/2018/06/01/i-am-the-law-2.html
@@ -22,25 +22,24 @@ https://boingboing.net/2018/06/01/i-am-the-law-2.html
 Sarah Ryeley: My series on nuisance abatement that won a Pulitzer didn't really go much those tools. I did some of the analysis in Tableau, but you could probably do the same with pivot tables. It was probably the simplest data story I've ever done, in terms of the tools needed for the actual analysis. The harder part was the process behind the data collection, and then of course the rest of the reporting. I have a more detailed blow-by-blow of the process in my IRE entry, which is in the IRE library. But I use this series as an example at the end of my beginners data bootcamp and my "Intro to Data Tools" presentation to show that you can still get big impact by incorporating even basic data skills into your investigations :)
 + https://www.propublica.org/article/propublica-new-york-daily-news-pulitzer-public-service-nuisance-abatement#more-about-this-reporting
 
-Dan Telvock: My two-part series on a badly polluted creek that was an IRE finalist a few years ago used pivot tables in Excel to calculate number of sewer overflow, which water received the poo and which localities were responsible. I also developed my own spreadsheet for the volumes for one of the localities by requesting all of their overflow reports sent to the state. In the end, it helped build context and the case that this creek is unhealthy. *Warning: second video is a bit disturbing for some, I am sure. *
+Dan Telvock: My two-part series on a badly polluted creek that was an IRE finalist a few years ago used pivot tables in Excel to calculate number of sewer overflow, which water received the poo and which localities were responsible. I also developed my own spreadsheet for the volumes for one of the localities by requesting all of their overflow reports sent to the state. In the end, it helped build context and the case that this creek is unhealthy. *Warning: second video is a bit disturbing for some, I am sure.*
 
-http://www.investigativepost.org/2014/07/17/the-scajaquada-crippled-creek/
-http://www.investigativepost.org/2014/07/24/disgust-outrage-scajaquada-creek/
+http://www.investigativepost.org/2014/07/17/the-scajaquada-crippled-creek/ | http://www.investigativepost.org/2014/07/24/disgust-outrage-scajaquada-creek/
 
-Alex Brockman:  Here's a relatively simple data-driven story that we did at CBC Windsor a couple years ago. http://www.cbc.ca/news/canada/windsor/south-windsor-intersection-speeding-1.3762090 It did take an FOIA request from the local police force to get the data, but it only took a month to get. I got an excel dataset with the location and date of speeding tickets handed out over the past five years. After a few sorts, pivot tables, and some work with Google Fusion tables, we found the most-ticketed intersection and used it as a newshook into an in-depth profile of the person who lived at that corner. 
+Alex Brockman:  Here's a relatively simple data-driven story that we did at CBC Windsor a couple years ago. http://www.cbc.ca/news/canada/windsor/south-windsor-intersection-speeding-1.3762090 It did take an FOIA request from the local police force to get the data, but it only took a month to get. I got an excel dataset with the location and date of speeding tickets handed out over the past five years. After a few sorts, pivot tables, and some work with Google Fusion tables, we found the most-ticketed intersection and used it as a newshook into an in-depth profile of the person who lived at that corner.
 
 We also published an interactive tool with Google Maps that was a standalone element: http://www.cbc.ca/news/canada/windsor/speeding-tickets-windsor-1.3762141
 
-## Jaywalking Tickets 
+## Jaywalking Tickets
 
 Two of my most fun data-driven stories happened when I was at the Columbus Dispatch in Ohio (miss you, Ohio public records laws). One looked at where people were getting ticketed (and when) for jaywalking <http://www.dispatch.com/content/stories/local/2014/06/15/dozens-of-jaywalking-tickets-issued-in-city-each-month.html>.
 I did that after a big jaywalking enforcement blitz. The other looked at public urination citations <http://www.dispatch.com/article/20141201/NEWS/312019688> (and involved one of my favorite police quotes ever, "You don't buy beer, you rent it.") Both of these had maps I made in Google Fusion, but a website redesign wiped them out.
 
-## Claims against the City 
+## Claims against the City
 http://www.yakimaherald.com/news/local/lawsuits-claims-just-the-cost-of-doing-business-for-yakima/article_e076d9ae-0978-11e8-a4b8-9bcb976cdac5.html
 
-## Technique 
-Patrick Cain: 
+## Technique
+Patrick Cain:
 
 1) find the biggest/smallest outlier in a data set, and;
 2) Go find out why that thing is the way it is.
@@ -136,7 +135,7 @@ not encounter that.
 
 
 ---------
-Dianne Finch: 
+Dianne Finch:
 
 How about CO2 data from NOAA? There are many stories that could be
 generated from it -- including a look at how states are taking on the Paris
@@ -169,4 +168,3 @@ Police data in their city
 
 All of the above had led to good stories by my students.. They start with
 data and find stories.....(those who are motivated anyway!)
-
