@@ -1,3 +1,3 @@
 # Welcome
 
-Not all modules will use this site. 
+The full schedule is at <https://newmedia.report/classes/data-bootcamp/2018/>
