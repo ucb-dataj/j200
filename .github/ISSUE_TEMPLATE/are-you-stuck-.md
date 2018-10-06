@@ -1,6 +1,6 @@
 ---
 name: Are you stuck?
-about: This template will help you give me enough information to help you get unstuck.
+about: If you're a student in this class, this template will help you give me enough information to help you get unstuck.
 
 ---
 
