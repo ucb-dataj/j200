@@ -1,19 +1,16 @@
 theme: jekyll-theme-minimal
-permalink: /:categories/:title.html 
+permalink: /:categories/:title.html
 
 exclude: ["notes"]
 highlighter: rouge
 
-title : J200 Data Bootcamp 
-tagline: Fall 2018 
+title : J200 Data Bootcamp
+description: Fall 2018 
 
 author :
   name    : Amanda Hickman
   email   : amanda@velociraptor.info
   github  : ucb-dataj
-course :   
+course :
   semester: Fall 2018
-  title   : J200 Data Bootcamp 
-
-
- 
+  title   : J200 Data Bootcamp
