@@ -1,8 +1,8 @@
 ---
 title     : Recommended Reading
-layout    : post
+layout    : default
 category  : reference
-tagline   : Keep learning.
+
 ---
 
 
