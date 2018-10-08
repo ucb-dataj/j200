@@ -9,9 +9,9 @@
 
 <br />
 
-<ul class="posts" id="handson">
-  <li><b>Hands On Exercises</b></li>
-  {% for post in site.categories.hands-on %}
+<ul class="posts" id="reference">
+  <li><b>Resources</b></li>
+  {% for post in site.categories.reference %}
     <li><a href="{{ site.baseurl }}{{ post.url }}">&raquo; {{ post.title }}</a></li>
   {% endfor %}
 </ul>
