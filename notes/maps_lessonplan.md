@@ -15,6 +15,10 @@ Maps can be dead simple or they can be ornate.
 
 * https://datasmart.ash.harvard.edu/civic-data/map-month
 
+* https://www.npr.org/2011/11/07/142024951/poisoned-places-about-the-data
+
+* https://www.washingtonpost.com/graphics/national/police-shootings-2016
+
 * Students at University of King’s College School of Journalism in Halifax, Nova Scotia, Canada took on a pretty straightforward public records project. For their 2017 project, [Something in the water](https://signalhfx.ca/deadly-water/) they pulled a map, provided by the Nova Scotia Department of Environment, of every well that was drilled or dug in the province between 1920 and 2014l -- 96,000 in tota. They compared that map with a second map, also provided by the Department of the Environment, that showed areas of known or likely groundwater arsenic contamination. In their case they found that about 70,000 wells in Nova Scotia were "very likely" to have arsenic. That was a story all by itself, but even with much less overlap, that gives you a great list of people to start reaching out to. Even without a published map, they've got a great story.
 
 *  There are about 40 high rise buildings in San Francisco that are [exceptionally succeptible to earthquakes](https://www.nytimes.com/2018/06/14/us/california-earthquakes-high-rises.html). The NY Times found a list of those buildings in the appendix to a [USGS report](https://www.usgs.gov/news/usgs-rolls-out-groundbreaking-earthquake-study-haywired-earthquake-scenario?qt-news_science_products=1#qt-news_science_products).
