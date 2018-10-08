@@ -1,9 +1,5 @@
 ## Examples of relatively simple maps:
 
-
-Basic intro -- lines, points, shapes; core principle of reconciling addresses with lat/lon points.
-
-
 Cal Matters mapped [housing initiatives on the June ballot](https://calmatters.org/articles/map-how-we-voted-on-housing-issues-up-and-down-the-state/) -- Let's talk about how to make it more skimmable? Does this work and convey information, as a map?
 
 
@@ -70,6 +66,19 @@ Structural Engineers Association of Northern California (SEAONC) compiled the li
 This piece on water contamination in Nova Scotia came out of a spatial join of well locations with areas with higher potential for arsenic contamination. It was a simple analysis that led to a compelling story.
 
 https://signalhfx.ca/deadly-water/
+
+### Review
+
+Sex offenders:
+In 2006, California voters passed [Prop 83](http://www.lao.ca.gov/ballot/2006/83_11_2006.htm), which requires registered sex offenders to live at least 2000 feet from any school or playground. In 2015, the state supreme court said the [blanket restriction was too broad](https://www.nbclosangeles.com/news/local/California-Loosens-Sex-Offender-Residency-Restrictions-297740931.html) and the law could only be applied to offenders whose crimes involved children.
+
+Sex offender restrictions buffered around schools to show how much of a city is off limits. How would you map those?
+
+Transit:
+SB 827 died pretty quickly, but it would have established buffer zones around transit hubs and forced denser zoning as of right.
+ So how would you map the impact of that bill? <https://transitrichhousing.org/> tried.
+
+
 
 ## Tutorials for Further Research
 http://akanik.github.io/mapping-2017/
