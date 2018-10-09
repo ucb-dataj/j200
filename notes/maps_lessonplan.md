@@ -9,7 +9,7 @@ Goals: introduce the basics of mapping and make a simple map. Students should le
 Why we map
  - to understand geographic data
  - to tell stories with geography
- 
+
 Maps can be dead simple or they can be ornate.
 
 * https://www.nytimes.com/interactive/2018/09/12/business/las-vegas-housing-crisis.html
@@ -25,11 +25,11 @@ Maps can be dead simple or they can be ornate.
 *  There are about 40 high rise buildings in San Francisco that are [exceptionally succeptible to earthquakes](https://www.nytimes.com/2018/06/14/us/california-earthquakes-high-rises.html). The NY Times found a list of those buildings in the appendix to a [USGS report](https://www.usgs.gov/news/usgs-rolls-out-groundbreaking-earthquake-study-haywired-earthquake-scenario?qt-news_science_products=1#qt-news_science_products).
 * San Francisco Public Press layered the map of un-retrofitted soft story buildings over the liquefaction map provided by the USGS to create a [very rough list of unsafe buildings](https://sfpublicpress.org/softstorylist) in San Francisco.
 *  [Mapping the Shoreline Building Boom as Seas Rise](https://sfpublicpress.org/news/searise/2017-04/mapping-the-shoreline-building-boom-as-seas-rise)
-* [ProPublica &amp; The Lens: Losing Ground](http://projects.propublica.org/louisiana/) <!-- /talks/2017/imgs/losing_ground.png |  /talks/2017/imgs/losing_ground2.png -->
+* [ProPublica &amp; The Lens: Losing Ground](http://projects.propublica.org/louisiana/)  /talks/2017/imgs/losing_ground.png |  /talks/2017/imgs/losing_ground2.png
 
-* [How fast is LAFD where you live?](http://graphics.latimes.com/how-fast-is-lafd/#10/33.9661/-118.6201) <!-- /talks/2014/Dodge/latimes.png |  This 2012 project from the LA Times is one of my favorites because it highlights a clear problem. -->
+* [How fast is LAFD where you live?](http://graphics.latimes.com/how-fast-is-lafd/#10/33.9661/-118.6201)  /talks/2014/Dodge/latimes.png |  This 2012 project from the LA Times is one of my favorites because it highlights a clear problem.
 
-* [Borderlands](http://apps.npr.org/borderland/#_/about) <!-- /talks/2014/Dodge/osm_borderlands.png About a third of the border is fenced, often in populated areas. This project dates back to 2014, long before we started talking about 'the wall'. NPR published [the code](https://github.com/nprapps/borders-map) behind their layout. -->
+* [Borderlands](http://apps.npr.org/borderland/#_/about)  /talks/2014/Dodge/osm_borderlands.png About a third of the border is fenced, often in populated areas. This project dates back to 2014, long before we started talking about 'the wall'. NPR published [the code](https://github.com/nprapps/borders-map) behind their layout.
 
 * [KQED](https://ww2.kqed.org/news/2017/10/09/map-track-the-fires-in-napa-and-sonoma-counties/) <!-- /talks/2017/imgs/kqed_firemap.png -->
 * [KQED](http://ww2.kqed.org/news/2017/10/19/map-cal-fire-maps-homes-damaged-or-destroyed-in-north-bay-fires/) <!-- /talks/2017/imgs/kqed_structures.png | Most visited, during the fires. -->
@@ -38,7 +38,7 @@ Maps can be dead simple or they can be ornate.
 
 
 
-## How to ma
+## How to map
 
  - I know you've already talked about design and about thinking about how to convey information to your audience.
  - If you're mapping to understand what the data says,
