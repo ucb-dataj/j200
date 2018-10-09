@@ -1,9 +1,9 @@
 ---
-title     : Mapping in Mapbox
+title     : Making a Map
 layout    : post
 category  : hands-on
-tagline   : Let's actually make a map.
 tags      : [maps]
+author    : Amanda Hickman
 ---
 
 We're going to work in Mapbox Studio. So go ahead and create an account. 
