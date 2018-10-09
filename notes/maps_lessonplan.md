@@ -9,6 +9,7 @@ Goals: introduce the basics of mapping and make a simple map. Students should le
 Why we map
  - to understand geographic data
  - to tell stories with geography
+ 
 Maps can be dead simple or they can be ornate.
 
 * https://www.nytimes.com/interactive/2018/09/12/business/las-vegas-housing-crisis.html
@@ -37,7 +38,8 @@ Maps can be dead simple or they can be ornate.
 
 
 
-How to map
+## How to ma
+
  - I know you've already talked about design and about thinking about how to convey information to your audience.
  - If you're mapping to understand what the data says,
  - three basic elements, points + lines + shapes.
