@@ -1,7 +1,7 @@
 
 <div class="sidebar">
 <ul class="posts" id="assignments">
-  <li><b>Assignment Details</b></li>
+  <li><b>Lecture Notes</b></li>
   {% for post in site.categories.thursday %}
     <li><a href="{{ site.baseurl }}{{ post.url }}">&raquo; {{ post.title }}</a></li>
   {% endfor %}
@@ -9,16 +9,16 @@
 
 <br />
 
-<ul class="posts" id="reference">
-  <li><b>Resources</b></li>
-  {% for post in site.categories.reference %}
+<ul class="posts" id="exercise">
+  <li><b>Hands On Exercises</b></li>
+  {% for post in site.categories.hands-on %}
     <li><a href="{{ site.baseurl }}{{ post.url }}">&raquo; {{ post.title }}</a></li>
   {% endfor %}
 </ul>
 
 <br />
 
-<ul class="posts" id="handson">
+<ul class="posts" id="reference">
   <li><b>Other Links</b></li>
     <li><a href="https://newmedia.report/classes/data-bootcamp/2018/">&raquo; Data Bootcamp Overview</a></li>
     <li><a href="{{ site.baseurl }}/reading.html">&raquo; Recommended Reading</a></li>
