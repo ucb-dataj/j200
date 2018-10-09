@@ -6,4 +6,4 @@ tags      : [maps]
 author    : Amanda Hickman
 ---
 
-We're going to work in Mapbox Studio. So go ahead and create an account. 
+We're going to work in [Datawrapper](https://www.datawrapper.de/), so go ahead and create an account.
