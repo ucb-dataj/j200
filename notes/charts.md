@@ -1,5 +1,8 @@
 charts
 
+## Examples
+https://twitter.com/flowingdata/status/1049695401580802048
+
 ## Required Reading
 
 If you haven't already gotten ahold of a copy of Sarah Cohen's [Numbers in the Newsroom](http://store.ire.org/products/numbers-in-the-newsroom-using-math-and-statistics-in-news-second-edition) do, and read it through. She covers a lot of vital information about working with and writing about numbers.
@@ -9,7 +12,7 @@ If you don't already feel comfortable with spreadsheets, you should work through
 + [Spreadsheet Refresher](https://ucb-dataj.github.io/2018/week3.html#spreadsheets) from J298
 + [Spreadsheet Skills](http://amandabee.github.io/CUNY-data-skills/hands-on/spreadsheets.html)
 
-Most of those links are designed to compliment in-class exercises, rather than 
+Most of those links are designed to compliment in-class exercises, rather than
 
 
 ## Notes
