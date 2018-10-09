@@ -4,8 +4,8 @@ permalink: /:categories/:title.html
 exclude: ["notes"]
 highlighter: rouge
 
-title : J200 Data Bootcamp
-description: Fall 2018
+title : Data Bootcamp
+description: J200, Fall 2018
 logo: assets/logo-blue-retina.png
 
 # author :
@@ -13,5 +13,5 @@ logo: assets/logo-blue-retina.png
 ##  email   : amanda@velociraptor.info
 ##  github  : ucb-dataj
 course :
-  semester: Fall 2018
-  title   : J200 Data Bootcamp
+  semester: J200 Fall 2018
+  title   : Data Bootcamp
