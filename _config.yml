@@ -4,7 +4,7 @@ permalink: /:categories/:title.html
 exclude: ["notes"]
 highlighter: rouge
 
-title : Data Bootcamp: Mapping
+title : Data Bootcamp -- Mapping
 description: J200, Fall 2018
 logo: assets/logo-blue-retina.png
 
