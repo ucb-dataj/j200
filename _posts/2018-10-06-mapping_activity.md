@@ -18,13 +18,19 @@ Luckily, BuzzFeed News actually links to the original report -- the raw data is 
 
 Workbench is still a work in progress but one thing it does well is show the transformations I applied to the original data.
 
-**Step 1:** Download the csv from Workbench.
+**Step 0:** Download the csv from Workbench.
 
-**Step 2:** Log into Datawrapper and choose "Create a map"
+**Step 1:** Log into Datawrapper and choose "Create a map". We want a choropleth.
 
-![create a map](assets/mapping_exercise/dw1.png)
+![create a map](/j200/assets/mapping_exercise/dw1.png)
 
+**Step 2:** (Datawrapper thinks of this as Step 1), search for "USA States" under "What type of map do you want to create?".
 
+**Step 3:** Import your dataset. But get in the habit of reading pop up windows. Do we have ISO-Codes or Names here?
+
+Once you've uploaded your data, read through the next screen, too.
+
+![pay attention](/j200/assets/mapping_exercise/columns.png)
 
 **Title:** What is the takeaway? In the story, they captioned this "Suicide rates increased in almost all states between 1999 and 2016 — some by more than 30%.", but the chart uses "Figure. Percent change in annual suicide rate,* by state-- United States , from 1999/2001 to 2014/2016"
 
