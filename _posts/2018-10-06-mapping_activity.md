@@ -39,7 +39,7 @@ You've already got a much cleaner map. But we're going to hit `Proceed` and make
 **Step 4:** Customize your gradient and your tooltips. The average nationwide was a 25.4% increase. You could reasonably center your buckets there. Or you can keep the default gradient. And make some tooltips.
 
 ```
-{{ Increase_Decrease }} of {{ Overall_Percent_Change }}%
+\{\{ Increase_Decrease }} of {{ Overall_Percent_Change }}%
 ```
 
 **Step 5:** Add your title and description. Never skip the metadata.
@@ -63,4 +63,6 @@ Another excellent option if you're willing to learn (or cut and paste) some java
 2. Head into [Mapbox Studio](https://www.mapbox.com/studio/) once you're logged in.
 3. On the "Datasets" tab, click on "New dataset" -- upload your csv.
 
-You can very quickly start looking at the data on a map. We can also go back to the Studio menu and start to work on making styles. Mapbox likes to start in Paris. If you aren't making a map of Paris search for a different city so you can center your map ther
+You can very quickly start looking at the data on a map. We can also go back to the Studio menu and start to work on making styles. Mapbox likes to start in Paris. If you aren't making a map of Paris search for a different city so you can center your map there.
+
+Add a layer. Even though you already uploaded it, you want to select "upload" and then look for Create From Dataset.
