@@ -12,7 +12,11 @@ Caroline Kee covered a pretty straightforward, if disturbing, CDC report on [ris
 
 Take a look at the legend. The sizes on those buckets are wild. The darkest has a 20 percentage pt spread, and the next has just a six percentage pt spread. These are quantiles: the CDC designed the buckets so that each would have 12 states in it. And then they chipped off Nevada which is the only state that saw a decrease.
 
-Luckily, BuzzFeed News actually links to the original report -- the raw data is available in the CDC's [Morbidity and Mortality Weekly Report](https://www.cdc.gov/mmwr/index.html).
+Luckily, BuzzFeed News actually links to the original report -- the raw data is available in the CDC's [original report](https://www.cdc.gov/vitalsigns/suicide/infographic.html#graphic1) which appeared in the [Morbidity and Mortality Weekly Report](https://www.cdc.gov/mmwr/index.html). To avoid hiccups in the copy and paste process, I went ahead and pulled the numbers for you.
+
+<https://app.workbenchdata.com/workflows/5852>
+
+Workbench is still a work in progress but one thing it does well is show the transformations I applied to the original data. 
 
 
 
