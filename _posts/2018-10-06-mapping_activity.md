@@ -32,19 +32,23 @@ Once you've uploaded your data, read through the next screen, too.
 
 ![pay attention](/j200/assets/mapping_exercise/columns.png)
 
-**Title:** What is the takeaway? In the story, they captioned this "Suicide rates increased in almost all states between 1999 and 2016 — some by more than 30%.", but the chart uses "Figure. Percent change in annual suicide rate,* by state-- United States , from 1999/2001 to 2014/2016"
+As you step through these dialog windows, they should make sense!
 
-**Caption:** Tell me more about what I'm looking at. "A recent CDC report found that there is just one state in the union -- Nevada -- where suicides did not rise between 1999 and 2016."
+You've already got a much cleaner map. But we're going to hit `Proceed` and make it better.
 
-**Map:** What are those buckets? If you look at this map where would you say the problem is most dramatic? This is a quantile map: they chose the buckets so that there are roughly the same number of states in each bucket. But one of these ranges is not like the others: 38-58% is a far bigger range. If we use "equal intervals," we wind up with very different buckets:
+**Step 4:** Customize your gradient and your tooltips. The average nationwide was a 25.4% increase. You could reasonably center your buckets there. Or you can keep the default gradient. And make some tooltips.
 
--1- 10.72
-10.72 - 22.44
-22.44 - 34.16
-34.16 - 45.88
-45.88 - 57.60
+```
+{{ Increase_Decrease }} of {{ Overall_Percent_Change }}%
+```
 
-I think it makes some kind of sense to break it at zero, and at the national average (25.4)
+**Step 5:** Add your title and description. Never skip the metadata.
+
+**Title:** What is the takeaway here? In the story, they captioned this "Suicide rates increased in almost all states between 1999 and 2016 — some by more than 30%.", but the chart uses "Figure. Percent change in annual suicide rate,* by state-- United States , from 1999/2001 to 2014/2016"
+
+**Caption:** Tell your readers more about what we're looking at. "A recent CDC report found that there is just one state in the union -- Nevada -- where suicides did not rise between 1999 and 2016."
+
+**Step 6:** Embed it!
 
 
 ## Unsolved Homicides
