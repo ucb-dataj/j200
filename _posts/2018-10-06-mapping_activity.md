@@ -16,7 +16,13 @@ Luckily, BuzzFeed News actually links to the original report -- the raw data is 
 
 <https://app.workbenchdata.com/workflows/5852>
 
-Workbench is still a work in progress but one thing it does well is show the transformations I applied to the original data. 
+Workbench is still a work in progress but one thing it does well is show the transformations I applied to the original data.
+
+**Step 1:** Download the csv from Workbench.
+
+**Step 2:** Log into Datawrapper and choose "Create a map"
+
+![create a map](assets/mapping_exercise/dw1.png)
 
 
 
