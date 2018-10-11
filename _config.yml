@@ -4,7 +4,7 @@ permalink: /:categories/:title.html
 exclude: ["notes"]
 highlighter: rouge
 
-title : Data Bootcamp
+title : Data Bootcamp: Mapping
 description: J200, Fall 2018
 logo: assets/logo-blue-retina.png
 
@@ -12,6 +12,3 @@ logo: assets/logo-blue-retina.png
 ##  name    : Amanda Hickman
 ##  email   : amanda@velociraptor.info
 ##  github  : ucb-dataj
-course :
-  semester: J200 Fall 2018
-  title   : Data Bootcamp
