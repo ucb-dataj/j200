@@ -53,6 +53,12 @@ You've already got a much cleaner map. But we're going to hit `Proceed` and make
 
 ## Unsolved Homicides
 
+The Washington Post collected data on more than 52,000 criminal homicides over the past decade in 50 of the largest American cities. I filtered out two local cities so we could take a closer look.
+[Unsolved Homicides in Oakland](https://app.workbenchdata.com/workflows/5840) \ [Unsolved Homicides in San Francisco](https://app.workbenchdata.com/workflows/5853/). We could map these in Datawrapper but we're going to get frustrated with their built in maps.
 
-The Washington Post collected data on more than 52,000 criminal homicides over the past decade in 50 of the largest American cities.
-https://app.workbenchdata.com/workflows/5840
+Another excellent option if you're willing to learn (or cut and paste) some javascript is Mapbox Studio.
+
+0. Download the unsolved homicides CSV
+1. Make an account.
+2. Head into [Mapbox Studio](https://www.mapbox.com/studio/) once you're logged in.
+3. On the "Datasets" tab, click on "New dataset"
