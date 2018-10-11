@@ -46,7 +46,7 @@ You've already got a much cleaner map. But we're going to hit `Proceed` and make
 
 **Title:** What is the takeaway here? In the story, they captioned this "Suicide rates increased in almost all states between 1999 and 2016 — some by more than 30%.", but the chart uses "Figure. Percent change in annual suicide rate,* by state-- United States , from 1999/2001 to 2014/2016"
 
-**Caption:** Tell your readers more about what we're looking at. "A recent CDC report found that there is just one state in the union -- Nevada -- where suicides did not rise between 1999 and 2016."
+**Caption:** Tell your readers more about what we're looking at. "A recent CDC report found that there is just one state in the union -- Nevada -- where suicides did  not rise between 1999 and 2016."
 
 **Step 6:** Embed it!
 
@@ -58,7 +58,9 @@ The Washington Post collected data on more than 52,000 criminal homicides over t
 
 Another excellent option if you're willing to learn (or cut and paste) some javascript is Mapbox Studio.
 
-0. Download the unsolved homicides CSV
+0. Download the unsolved homicides CSV that you're interested in. Make sure you know where your computer stored it.
 1. Make an account.
 2. Head into [Mapbox Studio](https://www.mapbox.com/studio/) once you're logged in.
-3. On the "Datasets" tab, click on "New dataset"
+3. On the "Datasets" tab, click on "New dataset" -- upload your csv.
+
+You can very quickly start looking at the data on a map. We can also go back to the Studio menu and start to work on making styles. Mapbox likes to start in Paris. If you aren't making a map of Paris search for a different city so you can center your map ther
