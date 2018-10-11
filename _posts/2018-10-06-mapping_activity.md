@@ -66,3 +66,5 @@ Another excellent option if you're willing to learn (or cut and paste) some java
 You can very quickly start looking at the data on a map. We can also go back to the Studio menu and start to work on making styles. Mapbox likes to start in Paris. If you aren't making a map of Paris search for a different city so you can center your map there.
 
 Add a layer. Even though you already uploaded it, you want to select "upload" and then look for Create From Dataset.
+
+We'll play with this together until we have points on a map. And you can embed that map and make it zoomable. To add any interactivity, however, you have to start with some of their javascript tutorials.
