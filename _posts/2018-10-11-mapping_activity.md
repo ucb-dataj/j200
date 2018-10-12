@@ -26,6 +26,8 @@ Workbench is still a work in progress but one thing it does well is show the tra
 
 **Step 2:** (Datawrapper thinks of this as Step 1), search for "USA States" under "What type of map do you want to create?".
 
+Fun question that came up Week 1, that I couldn't answer off the top of my head: *Why is the electoral college hex map different from the population map?* It turns out there are a few reasons. First, as I noted, the census updates population estimates more often than the electoral college is redesigned. Second, the actual electors aren't based entirely on population. Each state gets one Elector for each senator (2) and one for each congress person (varies, maps are redrawn every 10 years). DC always gets 3 Electors (or, no more than the least populous state).
+
 **Step 3:** Import your dataset. But get in the habit of reading pop up windows. Do we have ISO-Codes or Names here?
 
 Once you've uploaded your data, read through the next screen, too.
@@ -56,7 +58,9 @@ You've already got a much cleaner map. But we're going to hit `Proceed` and make
 The Washington Post collected data on more than 52,000 criminal homicides over the past decade in 50 of the largest American cities. I filtered out two local cities so we could take a closer look.
 [Unsolved Homicides in Oakland](https://app.workbenchdata.com/workflows/5840) \ [Unsolved Homicides in San Francisco](https://app.workbenchdata.com/workflows/5853/). We could map these in Datawrapper but we're going to get frustrated with their built in maps.
 
-Another excellent option if you're willing to learn (or cut and paste) some javascript is Mapbox Studio.
+Another excellent option if you're willing to learn (or cut and paste) some javascript is Mapbox Studio. Their order of operations is kind of nuanced and not obvious or intuitive if you're not familiar with some core principles of publishing maps on the internet. Their [sample workflow](https://www.mapbox.com/studio-manual/overview/#sample-workflow) is a good starting point, but it won't be 100% clear until you've spent some time working with their tools.
+
+[Styles](https://www.mapbox.com/studio-manual/reference/styles/) are the visual rules that control how your map is drawn on the page. [Tilesets](https://www.mapbox.com/studio-manual/reference/tilesets/) are mapbox's primary data format. A tileset is a collection of images broken into a uniform grid of tiles, ready to load at various zoom levels. (If you've ever zoomed too fast on a Google Map you've seen tiles in action.) [Datasets](https://www.mapbox.com/studio-manual/reference/datasets/) are the editable feature collections that tilesets are built from. A dataset is your collection of lines, points, or shapes, with descriptive data attached.
 
 0. Download the unsolved homicides CSV that you're interested in. Make sure you know where your computer stored it.
 1. Make an account.
