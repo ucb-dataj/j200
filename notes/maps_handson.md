@@ -34,11 +34,13 @@ Lisa Pickoff-White did some nice work for the KQED coverage of the northbay fire
 
 We can actually download the map.  http://www.fire.ca.gov/fire_prevention/fire_prevention_wildland_statewide
 
+Realistically, until you know how to do some simplification, you aren't going to be able to do a lot with this data.
+
 ## In Mapbox
 Add it as a tileset -- because it is a full shapefile.
 
 ## In Datawrapper
 They only accept a few file types for upload so we're going to [follow their advice](https://academy.datawrapper.de/article/145-how-to-upload-your-own-map) and let [Mapshaper](https://mapshaper.org/) do some of the heavy lifting.
 * Upload the zipfile
-* use the `i` button to confirm that shapes have data attached (note: it looks like maybe the fire zones lack unique IDs?) -- we can fix this with dissolve? 
+* use the `i` button to confirm that shapes have data attached (note: it looks like maybe the fire zones lack unique IDs?) -- we can fix this with dissolve?
 * Project into the WGS-84 coordinate system. More on map projections: https://xkcd.com/977/
