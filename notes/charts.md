@@ -30,3 +30,6 @@ https://jsvine.github.io/intro-to-visidata/
 Quick and easy re-design
 
 https://arstechnica.com/tech-policy/2018/09/new-bill-would-finally-tear-down-federal-judiciarys-ridiculous-paywall/
+
+
+https://source.opennews.org/articles/value-human-text-analysis-q-alvin-chang/

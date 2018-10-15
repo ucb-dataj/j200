@@ -12,7 +12,9 @@ Why we map
 
 Maps can be dead simple or they can be ornate.
 
-* http://www.usnewsdeserts.com/ <-- add. 
+* http://www.usnewsdeserts.com/ <-- add.
+* https://source.opennews.org/articles/how-we-made-homan-square-portrait/ <-- add.
+
 
 * https://www.nytimes.com/interactive/2018/09/12/business/las-vegas-housing-crisis.html
 
