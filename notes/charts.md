@@ -15,6 +15,17 @@ If you don't already feel comfortable with spreadsheets, you should work through
 Most of those links are designed to compliment in-class exercises, rather than
 
 
+## Charts in the Newsroom
+
+### Well within your wheelhouse
+
+https://www.reuters.com/article/us-amazon-com-jobs-automation-insight/amazon-scraps-secret-ai-recruiting-tool-that-showed-bias-against-women-idUSKCN1MK08G
+
+https://calmatters.org/articles/housing-costs-high-california/#If-not-in-your-backyard-then-whose <-- redesign?
+
+### Things to aspire to
+
+
 ## Notes
 
 Ice detainers
