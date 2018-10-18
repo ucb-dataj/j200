@@ -23,6 +23,8 @@ https://www.reuters.com/article/us-amazon-com-jobs-automation-insight/amazon-scr
 
 https://calmatters.org/articles/housing-costs-high-california/#If-not-in-your-backyard-then-whose <-- redesign?
 
+http://www.newsreview.com/sacramento/why-is-sacramento-failing-its/content?oid=26402481 
+
 ### Things to aspire to
 
 
