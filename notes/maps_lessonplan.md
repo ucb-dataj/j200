@@ -12,6 +12,7 @@ Why we map
 
 Maps can be dead simple or they can be ornate.
 
+* https://www.citylab.com/equity/2018/10/neighborhoods-buried-student-debt/573187/ <-- add
 * http://www.usnewsdeserts.com/ <-- add.
 * https://source.opennews.org/articles/how-we-made-homan-square-portrait/ <-- add.
 
