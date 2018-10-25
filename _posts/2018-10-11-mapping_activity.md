@@ -12,7 +12,7 @@ Caroline Kee covered a pretty straightforward, if disturbing, CDC report on [ris
 
 Take a look at the legend. The sizes on those buckets are wild. The darkest has a 20 percentage pt spread, and the next has just a six percentage pt spread. These are quantiles: the CDC designed the buckets so that each would have 12 states in it. And then they chipped off Nevada which is the only state that saw a decrease.
 
-Luckily, BuzzFeed News actually links to the original report -- the raw data is available in the CDC's [original report](https://www.cdc.gov/vitalsigns/suicide/infographic.html#graphic1) which appeared in the [Morbidity and Mortality Weekly Report](https://www.cdc.gov/mmwr/index.html). To avoid hiccups in the copy and paste process, I went ahead and pulled the numbers for you.
+Luckily, BuzzFeed News actually links to the original report -- the raw data is available in the CDC's [original report](https://www.cdc.gov/vitalsigns/suicide/infographic.html#graphic1) which appeared in the [Morbidity and Mortality Weekly Report](https://www.cdc.gov/mmwr/index.html). To avoid hiccups in the copy and paste process, I went ahead and pulled the numbers for you. Question: is this data organized into points, lines or shapes?
 
 <https://app.workbenchdata.com/workflows/5852>
 
@@ -57,6 +57,26 @@ You've already got a much cleaner map. But we're going to hit `Proceed` and make
 
 The Washington Post collected data on more than 52,000 criminal homicides over the past decade in 50 of the largest American cities. I filtered out two local cities so we could take a closer look.
 [Unsolved Homicides in Oakland](https://app.workbenchdata.com/workflows/5840) \ [Unsolved Homicides in San Francisco](https://app.workbenchdata.com/workflows/5853/). We could map these in Datawrapper but we're going to get frustrated with their built in maps.
+
+Question: Is this data points, lines, or shapes?
+
+### Fusion Tables
+
+1. Create a new spreadsheet. Populate it with `=IMPORTDATA("{url}")` -- what do you think you should sub in for `{url}`? Note that everything matters here.
+
+2. Format the reported date column.
+
+3. Create a new column and calculate the number of days the case has been open with  `=DAYS(TODAY(),D2)` -- stop and read what `=DAYS()` and `=TODAY()` do. What do they do?
+
+4. Create a new fusion table. Go to Google Drive and select *New > More > Google Fusion Tables* (you might have to connect Fusion Tables as an app).
+
+5. Which column contains our location?
+
+6. Play with tool tips and coloring by the age of the case. 
+
+6. Last step, *Tools > Publish*
+
+### Mapbox
 
 Another excellent option if you're willing to learn (or cut and paste) some javascript is Mapbox Studio. Their order of operations is kind of nuanced and not obvious or intuitive if you're not familiar with some core principles of publishing maps on the internet. Their [sample workflow](https://www.mapbox.com/studio-manual/overview/#sample-workflow) is a good starting point, but it won't be 100% clear until you've spent some time working with their tools.
 

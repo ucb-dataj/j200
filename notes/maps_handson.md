@@ -23,6 +23,30 @@ Unsolved Homicides
 
 `csvjoin -c uid morsel.csv morsel_dates.csv` to join them by uid.
 
+ * then i moved to workbench which is preferable for this context, tbh.
+
+---------------------------
+
+## Fusion Tables
+In a new spreadsheet:
+
+`=IMPORTDATA("https://app.workbenchdata.com/public/moduledata/live/25511.csv")`
+
+Everything matters here. Spacing, quotes.
+
+Calculate the number of days the case has been open with `=DAYS(today(),D2)`
+
+Fix the reported date.
+
+Import that into fusion Tables.
+
+two column location.
+
+
+Color by age
+
+
+Tools > Publish
 
 ------------------------
 
