@@ -80,7 +80,7 @@ Question: Is this data points, lines, or shapes?
   * Filter out the solved homicides.
   * [Style the map by disposition](https://support.google.com/fusiontables/answer/2476954?hl=en&ref_topic=2575652) -- a process that should be easier than Google makes it.
 
-6. Last step, *Tools > Publish*
+9. Last step, *Tools > Publish*
 
 ### Mapbox
 
