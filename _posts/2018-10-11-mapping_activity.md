@@ -62,17 +62,23 @@ Question: Is this data points, lines, or shapes?
 
 ### Fusion Tables
 
-1. Create a new spreadsheet. Populate it with `=IMPORTDATA("{url}")` -- what do you think you should sub in for `{url}`? Note that everything matters here.
+1. Copy the URL for the CSV.
 
-2. Format the reported date column.
+1. Create a new spreadsheet. Populate it with the `=IMPORTDATA()` function. What does the help menu say about how to use `=IMPORTDATA()`?
+
+2. Format the `reported_date` column so it reads as dates.
 
 3. Create a new column and calculate the number of days the case has been open with  `=DAYS(TODAY(),D2)` -- stop and read what `=DAYS()` and `=TODAY()` do. What do they do?
 
-4. Create a new fusion table. Go to Google Drive and select *New > More > Google Fusion Tables* (you might have to connect Fusion Tables as an app).
+4. 🤔 What is wrong with this picture? (Hint: it's in the `disposition` column.) Not all of these homicides are "unsolved". Keep this in mind as we keep working.
 
-5. Which column contains our location?
+4. Create a new Fusion Table. Go to Google Drive and select *New > More > Google Fusion Tables* (you might have to connect Fusion Tables as an app).
 
-6. Play with tool tips and coloring by the age of the case. 
+5. Which column contains our location? We actually need a "two column location" which could be more intuitive than it is.
+
+7. This data actually contains all homicides, open and closed. So let's play with a few ways to handle that.  
+  * Filter out the solved homicides.
+  * [Style the map by disposition](https://support.google.com/fusiontables/answer/2476954?hl=en&ref_topic=2575652) -- a process that should be easier than Google makes it.
 
 6. Last step, *Tools > Publish*
 
