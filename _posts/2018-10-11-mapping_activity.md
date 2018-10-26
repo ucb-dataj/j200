@@ -56,13 +56,13 @@ You've already got a much cleaner map. But we're going to hit `Proceed` and make
 ## Unsolved Homicides
 
 The Washington Post collected data on more than 52,000 criminal homicides over the past decade in 50 of the largest American cities. I filtered out two local cities so we could take a closer look.
-[Unsolved Homicides in Oakland](https://app.workbenchdata.com/workflows/5840) \ [Unsolved Homicides in San Francisco](https://app.workbenchdata.com/workflows/5853/). We could map these in Datawrapper but we're going to get frustrated with their built in maps.
+[Homicides in Oakland](https://app.workbenchdata.com/workflows/5840) \ [Homicides in San Francisco](https://app.workbenchdata.com/workflows/5853/). We could map these in Datawrapper but we're going to get frustrated with their built in maps.
 
 Question: Is this data points, lines, or shapes?
 
 ### Fusion Tables
 
-1. Copy the URL for the CSV.
+1. Find the URL for the cleaned and filtered CSV in Workbench. Copy that.
 
 1. Create a new spreadsheet. Populate it with the `=IMPORTDATA()` function. What does the help menu say about how to use `=IMPORTDATA()`?
 
