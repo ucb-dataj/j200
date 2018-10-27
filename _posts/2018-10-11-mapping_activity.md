@@ -28,6 +28,8 @@ Workbench is still a work in progress but one thing it does well is show the tra
 
 Fun question that came up Week 1, that I couldn't answer off the top of my head: *Why is the electoral college hex map different from the population map?* It turns out there are a few reasons. First, as I noted, the census updates population estimates more often than the electoral college is redesigned. Second, the actual electors aren't based entirely on population. Each state gets one Elector for each senator (2) and one for each congress person (varies, maps are redrawn every 10 years). DC always gets 3 Electors (or, no more than the least populous state).
 
+The Washington Post did some deeper reporting asking why North Dakota stands out so much.  [It's worth reading if you're interested in that question.](https://www.washingtonpost.com/news/to-your-health/wp/2018/06/07/u-s-suicide-rates-rise-sharply-across-the-country-new-report-shows/)
+
 **Step 3:** Import your dataset. But get in the habit of reading pop up windows. Do we have ISO-Codes or Names here?
 
 Once you've uploaded your data, read through the next screen, too.
@@ -52,6 +54,7 @@ You've already got a much cleaner map. But we're going to hit `Proceed` and make
 
 **Step 6:** Embed it!
 
+Fun Question that came up Week 3 -- *If these rates are both based on the 2000 population, how much does this map just reflect population growth?* One answer, from the Census, is that between 2000 and 2010 [Nevada was the US state with the the highest growth](https://www.census.gov/newsroom/blogs/random-samplings/2011/03/population-distribution-and-change-2000-to-2010.html).
 
 ## Unsolved Homicides
 
