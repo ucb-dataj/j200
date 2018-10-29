@@ -30,7 +30,7 @@ Fun question that came up Week 1, that I couldn't answer off the top of my head:
 
 The Washington Post did some deeper reporting asking why North Dakota stands out so much.  [It's worth reading if you're interested in that question.](https://www.washingtonpost.com/news/to-your-health/wp/2018/06/07/u-s-suicide-rates-rise-sharply-across-the-country-new-report-shows/)
 
-**Step 3:** Import your dataset. But get in the habit of reading pop up windows. Do we have ISO-Codes or Names here?
+**Step 3:** Import your dataset. But get in the habit of reading modal windows. Do we have ISO-Codes or Names here?
 
 Once you've uploaded your data, read through the next screen, too.
 
