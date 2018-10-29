@@ -1,6 +1,6 @@
 ---
 title     : Template
-layout    : page
+layout    : post
 category  : Sunday
 tagline   : This is a basic template.
 tags      : [test, template]
