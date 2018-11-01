@@ -6,7 +6,7 @@ tags      : [maps]
 author    : Amanda Hickman
 ---
 
-You should already have a [Datawrapper](https://www.datawrapper.de/) account. If you've gotten this far without creating one, we've got bigger problems.
+You should already have a [Datawrapper](https://www.datawrapper.de/) account. If you don't, please make one!
 
 Caroline Kee covered a pretty straightforward, if disturbing, CDC report on [rising suicide rates nationwide](https://www.buzzfeed.com/carolinekee/suicide-rates-increase-us-2016-all-states). The map she included came directly from the CDC. It isn't a terrible map, but there are a few ways it could be much better. Can you tell at a glance **which states stand out** as having the most severe increase?
 
@@ -14,7 +14,7 @@ Take a look at the legend. The sizes on those buckets are wild. The darkest has 
 
 Luckily, BuzzFeed News actually links to the original report -- the raw data is available in the CDC's [original report](https://www.cdc.gov/vitalsigns/suicide/infographic.html#graphic1) which appeared in the [Morbidity and Mortality Weekly Report](https://www.cdc.gov/mmwr/index.html). To avoid hiccups in the copy and paste process, I went ahead and pulled the numbers for you. Question: is this data organized into points, lines or shapes?
 
-<https://app.workbenchdata.com/workflows/5852>
+<https://app.workbenchdata.com/workflows/5852> ([csv](/j200/assets/mapping_exercise/cdc_suicide.csv))
 
 Workbench is still a work in progress but one thing it does well is show the transformations I applied to the original data.
 
@@ -59,7 +59,7 @@ Fun Question that came up Week 3 -- *If these rates are both based on the 2000 p
 ## Unsolved Homicides
 
 The Washington Post collected data on more than 52,000 criminal homicides over the past decade in 50 of the largest American cities. I filtered out two local cities so we could take a closer look.
-[Homicides in Oakland](https://app.workbenchdata.com/workflows/5840) \ [Homicides in San Francisco](https://app.workbenchdata.com/workflows/5853/). We could map these in Datawrapper but we're going to get frustrated with their built in maps.
+[Homicides in Oakland](https://app.workbenchdata.com/workflows/5840) ([csv](/j200/assets/mapping_exercise/oakland_homicide.csv) \ [Homicides in San Francisco](https://app.workbenchdata.com/workflows/5853/) ([csv](/j200/assets/mapping_exercise/sf_homicide.csv)) . We could map these in Datawrapper but we're going to get frustrated with their built in maps.
 
 Question: Is this data points, lines, or shapes?
 
@@ -85,7 +85,7 @@ Question: Is this data points, lines, or shapes?
 
 9. Last step, *Tools > Publish*
 
-Note: [New Media Report](https://newmedia.report/tutorials/google-maps/) includes a nice Google Map tutorial if you want to keep playing with Google Maps. 
+Note: [New Media Report](https://newmedia.report/tutorials/google-maps/) includes a nice Google Map tutorial if you want to keep playing with Google Maps.
 
 ### Mapbox
 
